@@ -30,7 +30,7 @@ conn.close()
 cap = cv2.VideoCapture(0)
 known_faces = []
 known_names = []
-image_of_student = face_recognition.load_image_file("download.png")
+image_of_student = face_recognition.load_image_file("Adarsh.png")
 student_face_encoding = face_recognition.face_encodings(image_of_student)[0]
 known_faces.append(student_face_encoding)
 known_names.append("Adarsh Kumar")
