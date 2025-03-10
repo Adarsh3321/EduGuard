@@ -25,13 +25,6 @@ Before you can run EduGuard, make sure you have the following installed:
   **Clone the repository**:
 
 
-  
-    ```bash
-    git clone https://github.com/yourusername/EduGuard.git
-    cd EduGuard
-    ```
-
-
 3. **Prepare student images**:
     Place images of your students in the directory. Image should clearly show the student's face.
 
