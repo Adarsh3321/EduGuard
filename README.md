@@ -20,18 +20,3 @@ Before you can run EduGuard, make sure you have the following installed:
 - OpenCV
 - face_recognition
 
-### Steps to Install:
-
-  **Clone the repository**:
-
-
-3. **Prepare student images**:
-    Place images of your students in the directory. Image should clearly show the student's face.
-
-4. **Set up email notifications (optional)**:
-    If you want to enable email alerts, make sure to configure your email settings. 
-### Usage
-
-Once everything is set up, you can run the system:
-
-
