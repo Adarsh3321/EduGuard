@@ -88,8 +88,8 @@ else:
 
 
 def send_email_alert(student_name):
-    api_key = "82b6cf2ddf30b3bbd36e83965cf911e8-623424ea-e5afa4e7"
-    domain = "sandbox9bbb39985f074106ba1247220c87de4d.mailgun.org"  
+    api_key = ""
+    domain = ""  
     sender = "codingkelie@gmail.com"  
     recipient = "akrk3321@gmail.com"  
     subject = f"Alert: {student_name} is not in class!"
