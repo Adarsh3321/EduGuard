@@ -24,7 +24,7 @@ Before you can run EduGuard, make sure you have the following installed:
 
   **Clone the repository**:
 
-<br>
+
   
     ```bash
     git clone https://github.com/yourusername/EduGuard.git
